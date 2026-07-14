@@ -116,7 +116,7 @@ main{
     border-bottom-right-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.445) ;
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 900px;
     background-color: white;
 }
 
@@ -127,10 +127,10 @@ main h1{
 }
 
 main h2{
-    color:var(--color4);
+    color:var(--color3);
     font-family: var(--fonte-android);
     font-size: 1.3em;
-    background-image: linear-gradient(to right, var(--color5)10%, var(--color4)60%,transparent 90%);
+    background-image: linear-gradient(to right, var(--color5)30%, var(--color4)87%,transparent 100%);
     padding-left: 10px;
     text-indent: 10px;
 } 
